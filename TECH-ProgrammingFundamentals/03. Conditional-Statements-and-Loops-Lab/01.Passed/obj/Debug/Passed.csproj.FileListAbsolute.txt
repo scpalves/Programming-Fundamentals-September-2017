@@ -1,0 +1,6 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\bin\Debug\ConditionalStatementsAndLoopsLab.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\bin\Debug\ConditionalStatementsAndLoopsLab.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\bin\Debug\ConditionalStatementsAndLoopsLab.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\obj\Debug\ConditionalStatementsAndLoopsLab.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\ConditionalStatementsAndLoopsLab\obj\Debug\ConditionalStatementsAndLoopsLab.pdb

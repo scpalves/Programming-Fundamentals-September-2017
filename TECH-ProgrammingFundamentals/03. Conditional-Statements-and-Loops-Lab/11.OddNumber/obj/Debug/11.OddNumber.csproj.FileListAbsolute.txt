@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\11.OddNumber\bin\Debug\11.OddNumber.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\11.OddNumber\bin\Debug\11.OddNumber.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\11.OddNumber\bin\Debug\11.OddNumber.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\11.OddNumber\obj\Debug\11.OddNumber.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\11.OddNumber\obj\Debug\11.OddNumber.pdb

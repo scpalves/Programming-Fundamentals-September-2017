@@ -1,0 +1,6 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\obj\Debug\12.NumberChecker.csprojResolveAssemblyReference.cache
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\obj\Debug\12.NumberChecker.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\12.NumberChecker\obj\Debug\12.NumberChecker.pdb

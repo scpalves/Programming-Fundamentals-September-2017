@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\07.DivisibleBy3\obj\Debug\07.DivisibleBy3.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\07.DivisibleBy3\obj\Debug\07.DivisibleBy3.pdb

@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\10.MultiplicationTable2.0\obj\Debug\10.MultiplicationTable2.0.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\10.MultiplicationTable2.0\obj\Debug\10.MultiplicationTable2.0.pdb

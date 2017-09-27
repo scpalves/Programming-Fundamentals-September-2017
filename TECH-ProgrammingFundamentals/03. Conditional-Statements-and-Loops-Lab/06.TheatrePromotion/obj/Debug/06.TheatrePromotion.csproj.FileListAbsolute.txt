@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\06.TheatrePromotion\obj\Debug\06.TheatrePromotion.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\06.TheatrePromotion\obj\Debug\06.TheatrePromotion.pdb
