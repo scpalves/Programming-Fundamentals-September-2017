@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("01.CSharp-Basic-Syntax")]
+[assembly: AssemblyTitle("03. EmployeeData")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("01.CSharp-Basic-Syntax")]
+[assembly: AssemblyProduct("03. EmployeeData")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e4f9d2db-a159-45fc-9e13-3664af3d91f8")]
+[assembly: Guid("19323dfa-388f-46f8-a644-8edc1a9ddb65")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\02. AddTwoNumbers\bin\Debug\_02.AddTwoNumbers.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\02. AddTwoNumbers\bin\Debug\_02.AddTwoNumbers.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\02. AddTwoNumbers\bin\Debug\_02.AddTwoNumbers.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\02. AddTwoNumbers\obj\Debug\_02.AddTwoNumbers.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\02. AddTwoNumbers\obj\Debug\_02.AddTwoNumbers.pdb

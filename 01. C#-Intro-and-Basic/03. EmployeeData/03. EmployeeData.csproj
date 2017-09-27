@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4F9D2DB-A159-45FC-9E13-3664AF3D91F8}</ProjectGuid>
+    <ProjectGuid>{19323DFA-388F-46F8-A644-8EDC1A9DDB65}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.CSharp_Basic_Syntax</RootNamespace>
-    <AssemblyName>01.CSharp-Basic-Syntax</AssemblyName>
+    <RootNamespace>_03.EmployeeData</RootNamespace>
+    <AssemblyName>_03.EmployeeData</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Greeting.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

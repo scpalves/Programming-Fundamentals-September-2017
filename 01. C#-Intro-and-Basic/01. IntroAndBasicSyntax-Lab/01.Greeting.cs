@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-class Startup
+class Greeting
 {
     static void Main()
     {
