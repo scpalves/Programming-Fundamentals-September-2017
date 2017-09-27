@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

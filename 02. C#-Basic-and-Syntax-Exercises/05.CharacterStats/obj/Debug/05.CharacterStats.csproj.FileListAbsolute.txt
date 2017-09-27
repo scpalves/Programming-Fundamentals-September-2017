@@ -1,0 +1,5 @@
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.pdb
