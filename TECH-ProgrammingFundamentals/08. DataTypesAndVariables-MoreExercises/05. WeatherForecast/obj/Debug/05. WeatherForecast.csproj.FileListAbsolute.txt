@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\05. WeatherForecast\bin\Debug\_05.WeatherForecast.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\05. WeatherForecast\bin\Debug\_05.WeatherForecast.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\05. WeatherForecast\bin\Debug\_05.WeatherForecast.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\05. WeatherForecast\obj\Debug\_05.WeatherForecast.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\05. WeatherForecast\obj\Debug\_05.WeatherForecast.pdb

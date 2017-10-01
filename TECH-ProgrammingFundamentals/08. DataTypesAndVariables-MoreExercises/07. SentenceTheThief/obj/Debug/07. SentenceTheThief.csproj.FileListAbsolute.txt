@@ -1,0 +1,6 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\bin\Debug\_07.SentenceTheThief.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\bin\Debug\_07.SentenceTheThief.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\bin\Debug\_07.SentenceTheThief.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\obj\Debug\07. SentenceTheThief.csprojResolveAssemblyReference.cache
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\obj\Debug\_07.SentenceTheThief.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\07. SentenceTheThief\obj\Debug\_07.SentenceTheThief.pdb

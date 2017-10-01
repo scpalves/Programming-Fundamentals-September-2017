@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\09. MakeAWord\bin\Debug\_09.MakeAWord.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\09. MakeAWord\bin\Debug\_09.MakeAWord.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\09. MakeAWord\bin\Debug\_09.MakeAWord.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\09. MakeAWord\obj\Debug\_09.MakeAWord.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\09. MakeAWord\obj\Debug\_09.MakeAWord.pdb

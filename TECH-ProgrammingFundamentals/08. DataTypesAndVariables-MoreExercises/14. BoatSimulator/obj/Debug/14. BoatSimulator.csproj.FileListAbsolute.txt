@@ -1,0 +1,6 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\bin\Debug\_14.BoatSimulator.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\bin\Debug\_14.BoatSimulator.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\bin\Debug\_14.BoatSimulator.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\obj\Debug\14. BoatSimulator.csprojResolveAssemblyReference.cache
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\obj\Debug\_14.BoatSimulator.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\14. BoatSimulator\obj\Debug\_14.BoatSimulator.pdb

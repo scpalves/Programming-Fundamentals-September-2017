@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\06. CatchTheThief\bin\Debug\_06.CatchTheThief.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\06. CatchTheThief\bin\Debug\_06.CatchTheThief.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\06. CatchTheThief\bin\Debug\_06.CatchTheThief.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\06. CatchTheThief\obj\Debug\_06.CatchTheThief.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\06. CatchTheThief\obj\Debug\_06.CatchTheThief.pdb

@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\08. HouseBuilder\bin\Debug\_08.HouseBuilder.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\08. HouseBuilder\bin\Debug\_08.HouseBuilder.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\08. HouseBuilder\bin\Debug\_08.HouseBuilder.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\08. HouseBuilder\obj\Debug\_08.HouseBuilder.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\08. HouseBuilder\obj\Debug\_08.HouseBuilder.pdb

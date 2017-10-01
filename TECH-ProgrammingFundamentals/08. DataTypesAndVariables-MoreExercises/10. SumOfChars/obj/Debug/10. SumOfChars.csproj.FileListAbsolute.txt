@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\10. SumOfChars\bin\Debug\_10.SumOfChars.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\10. SumOfChars\bin\Debug\_10.SumOfChars.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\10. SumOfChars\bin\Debug\_10.SumOfChars.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\10. SumOfChars\obj\Debug\_10.SumOfChars.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\10. SumOfChars\obj\Debug\_10.SumOfChars.pdb

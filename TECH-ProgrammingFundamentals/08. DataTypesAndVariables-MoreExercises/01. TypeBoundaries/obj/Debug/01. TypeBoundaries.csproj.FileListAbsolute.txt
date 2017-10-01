@@ -1,0 +1,6 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\bin\Debug\DataTypesAndVariables-MoreExercises.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\bin\Debug\DataTypesAndVariables-MoreExercises.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\bin\Debug\DataTypesAndVariables-MoreExercises.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\obj\Debug\01. TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\obj\Debug\DataTypesAndVariables-MoreExercises.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DataTypesAndVariables-MoreExercises\obj\Debug\DataTypesAndVariables-MoreExercises.pdb

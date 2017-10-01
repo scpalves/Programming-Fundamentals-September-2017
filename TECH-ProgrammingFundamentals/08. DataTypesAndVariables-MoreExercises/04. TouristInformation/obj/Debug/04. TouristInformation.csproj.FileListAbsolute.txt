@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\04. TouristInformation\bin\Debug\_04.TouristInformation.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\04. TouristInformation\bin\Debug\_04.TouristInformation.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\04. TouristInformation\bin\Debug\_04.TouristInformation.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\04. TouristInformation\obj\Debug\_04.TouristInformation.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\04. TouristInformation\obj\Debug\_04.TouristInformation.pdb
