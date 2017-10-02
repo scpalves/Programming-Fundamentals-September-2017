@@ -1,0 +1,5 @@
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\11. PriceChangeAlert\bin\Debug\_11.PriceChangeAlert.exe.config
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\11. PriceChangeAlert\bin\Debug\_11.PriceChangeAlert.exe
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\11. PriceChangeAlert\bin\Debug\_11.PriceChangeAlert.pdb
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\11. PriceChangeAlert\obj\Debug\_11.PriceChangeAlert.exe
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\11. PriceChangeAlert\obj\Debug\_11.PriceChangeAlert.pdb

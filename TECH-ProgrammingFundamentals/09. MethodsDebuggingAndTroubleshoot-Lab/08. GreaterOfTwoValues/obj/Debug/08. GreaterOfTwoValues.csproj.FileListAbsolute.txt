@@ -1,0 +1,6 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\bin\Debug\_08.GreaterOfTwoValues.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\bin\Debug\_08.GreaterOfTwoValues.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\bin\Debug\_08.GreaterOfTwoValues.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\obj\Debug\08. GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\obj\Debug\_08.GreaterOfTwoValues.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\08. GreaterOfTwoValues\obj\Debug\_08.GreaterOfTwoValues.pdb

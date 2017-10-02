@@ -1,0 +1,6 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\bin\Debug\_07.MathPower.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\bin\Debug\_07.MathPower.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\bin\Debug\_07.MathPower.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\obj\Debug\07. MathPower.csprojResolveAssemblyReference.cache
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\obj\Debug\_07.MathPower.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\07. MathPower\obj\Debug\_07.MathPower.pdb

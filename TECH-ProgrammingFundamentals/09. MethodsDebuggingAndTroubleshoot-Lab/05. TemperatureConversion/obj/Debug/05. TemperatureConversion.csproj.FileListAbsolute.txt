@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\05. TemperatureConversion\bin\Debug\_05.TemperatureConversion.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\05. TemperatureConversion\bin\Debug\_05.TemperatureConversion.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\05. TemperatureConversion\bin\Debug\_05.TemperatureConversion.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\05. TemperatureConversion\obj\Debug\_05.TemperatureConversion.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\05. TemperatureConversion\obj\Debug\_05.TemperatureConversion.pdb

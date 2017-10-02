@@ -1,0 +1,5 @@
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\03. PrintingTriangle\bin\Debug\_03.PrintingTriangle.exe.config
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\03. PrintingTriangle\bin\Debug\_03.PrintingTriangle.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\03. PrintingTriangle\bin\Debug\_03.PrintingTriangle.pdb
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\03. PrintingTriangle\obj\Debug\_03.PrintingTriangle.exe
+c:\users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\03. PrintingTriangle\obj\Debug\_03.PrintingTriangle.pdb

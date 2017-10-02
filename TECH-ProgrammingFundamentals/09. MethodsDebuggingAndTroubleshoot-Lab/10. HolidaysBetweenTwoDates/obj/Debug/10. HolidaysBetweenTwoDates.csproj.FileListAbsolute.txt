@@ -1,0 +1,6 @@
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\bin\Debug\_10.HolidaysBetweenTwoDates.exe.config
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\bin\Debug\_10.HolidaysBetweenTwoDates.exe
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\bin\Debug\_10.HolidaysBetweenTwoDates.pdb
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\obj\Debug\10. HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\obj\Debug\_10.HolidaysBetweenTwoDates.exe
+C:\Users\earth\onedrive\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshoot-Lab\10. HolidaysBetweenTwoDates\obj\Debug\_10.HolidaysBetweenTwoDates.pdb
