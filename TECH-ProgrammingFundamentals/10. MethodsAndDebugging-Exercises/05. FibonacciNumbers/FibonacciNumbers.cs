@@ -4,29 +4,90 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class FibonacciNumber
+namespace _12.MasterNumber
 {
-    static void Main()
+    class Program
     {
-        long fibonaciNthNumber = long.Parse(Console.ReadLine());
-
-        var nthNumber = FibonacciNumbers(fibonaciNthNumber);
-        Console.WriteLine(nthNumber);
-    }
-
-    static long FibonacciNumbers(long number)
-    {
-        long firstNumber = 0;
-        long secondNumber = 1;
-        long fibonacciNumber = secondNumber;
-        for (int i = 1; i <= number; i++)
+        static void Main(string[] args)
         {
-            fibonacciNumber = firstNumber + secondNumber;
-            firstNumber = secondNumber;
-            secondNumber = fibonacciNumber;
+            int number = int.Parse(Console.ReadLine());
+
+            FindMasterNumsInRange(number);
+
         }
-        return fibonacciNumber;
+
+        static void FindMasterNumsInRange(int number)
+        {
+            for (int i = 1; i <= number; i++)
+            {
+
+                if (CheckIfNumberIsSymmetric(i))
+                {
+                    if (isSumOfDigitsDivisibleBy7(i))
+                    {
+                        if (isThereEvenDigitInNum(i))
+                        {
+                            Console.WriteLine(i);
+                        }
+                    }
+                }
+                else
+                {
+                    continue;
+                }
+
+            }
+
+        }
+
+        static bool isThereEvenDigitInNum(int number)
+        {
+
+            while (number != 0)
+            {
+
+                if ((number % 10) % 2 == 0)
+                {
+                    return true;
+                }
+                number /= 10;
+            }
+            return false;
+        }
+
+        static bool isSumOfDigitsDivisibleBy7(int number)
+        {
+            int sumOfDigits = 0;
+            while (number != 0)
+            {
+                sumOfDigits += number % 10;
+                number /= 10;
+            }
+
+            if (sumOfDigits % 7 == 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        static bool CheckIfNumberIsSymmetric(int number)
+        {
+            int n = number;
+            int reversedNumber = 0;
+            while (number > 0)
+            {
+                int dig = number % 10;
+                reversedNumber = reversedNumber * 10 + dig;
+                number = number / 10;
+            }
+
+            if (n == reversedNumber)
+            {
+                return true;
+            }
+
+            return false;
+        }
     }
-
 }
-

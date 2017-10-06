@@ -4,26 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class NumbersInReversedOrder
+namespace _0._1_HelloName
 {
-    static void Main()
+    class Program
     {
-        var number = decimal.Parse(Console.ReadLine());
-
-        var reversedNumber = ReversedNumber(number);
-        Console.WriteLine(reversedNumber);
-    }
-
-    static string ReversedNumber(decimal number)
-    {
-        var saveNumber = string.Empty;
-        while (number > 0)
+        static void Main(string[] args)
         {
-            var lastDigit = number % 10;
-            saveNumber += lastDigit.ToString();
-            number = Math.Floor(number /= 10);
+            decimal n = decimal.Parse(Console.ReadLine());
+            RotateNumbers(Math.Abs(n));
         }
-        return saveNumber;
+
+        private static void RotateNumbers(decimal n)
+        {
+
+            Console.WriteLine(n.ToString().Reverse().ToArray());
+        }
     }
 }
-
