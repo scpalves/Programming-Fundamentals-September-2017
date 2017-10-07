@@ -1,5 +1,0 @@
-c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\03. EmployeeData\bin\Debug\_03.EmployeeData.exe.config
-c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\03. EmployeeData\bin\Debug\_03.EmployeeData.exe
-c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\03. EmployeeData\bin\Debug\_03.EmployeeData.pdb
-c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\03. EmployeeData\obj\Debug\_03.EmployeeData.exe
-c:\users\earth\onedrive\documents\visual studio 2017\Projects\01. IntroAndBasicSyntax-Lab\03. EmployeeData\obj\Debug\_03.EmployeeData.pdb
