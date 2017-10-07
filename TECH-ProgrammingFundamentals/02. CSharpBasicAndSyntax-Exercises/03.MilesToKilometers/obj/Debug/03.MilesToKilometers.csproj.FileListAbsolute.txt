@@ -1,5 +1,0 @@
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe.config
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.pdb
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\02.CSharp-Basic-Syntax-Exercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.pdb
