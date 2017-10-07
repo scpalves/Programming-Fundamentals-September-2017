@@ -1,5 +1,0 @@
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe.config
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\04.MonthPrinter\bin\Debug\04.MonthPrinter.pdb
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\04.MonthPrinter\obj\Debug\04.MonthPrinter.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\04.MonthPrinter\obj\Debug\04.MonthPrinter.pdb

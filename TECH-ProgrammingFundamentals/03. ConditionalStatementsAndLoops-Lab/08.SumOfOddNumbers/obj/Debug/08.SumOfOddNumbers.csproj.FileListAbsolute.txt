@@ -1,6 +1,0 @@
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe.config
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.pdb
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.pdb
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.csprojResolveAssemblyReference.cache

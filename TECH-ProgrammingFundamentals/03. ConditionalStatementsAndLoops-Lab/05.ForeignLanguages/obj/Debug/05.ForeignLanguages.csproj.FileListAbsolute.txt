@@ -1,5 +1,0 @@
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.exe.config
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.pdb
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\05.ForeignLanguages\obj\Debug\05.ForeignLanguages.exe
-C:\Users\earth\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementsAndLoopsLab\05.ForeignLanguages\obj\Debug\05.ForeignLanguages.pdb
