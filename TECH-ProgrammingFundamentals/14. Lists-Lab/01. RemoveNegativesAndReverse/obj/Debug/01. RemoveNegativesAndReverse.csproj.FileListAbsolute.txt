@@ -1,0 +1,7 @@
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\bin\Debug\Lists-Lab.exe.config
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\bin\Debug\Lists-Lab.exe
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\bin\Debug\Lists-Lab.pdb
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\obj\Debug\01. RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\obj\Debug\01. RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\obj\Debug\Lists-Lab.exe
+C:\VisualStudio\Projects\Lists-Lab\Lists-Lab\obj\Debug\Lists-Lab.pdb

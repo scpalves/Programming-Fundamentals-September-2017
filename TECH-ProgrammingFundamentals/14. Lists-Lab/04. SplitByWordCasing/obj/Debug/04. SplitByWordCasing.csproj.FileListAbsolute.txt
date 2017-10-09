@@ -1,0 +1,7 @@
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\bin\Debug\_04.SplitByWordCasing.exe.config
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\bin\Debug\_04.SplitByWordCasing.exe
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\bin\Debug\_04.SplitByWordCasing.pdb
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\obj\Debug\04. SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\obj\Debug\04. SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\obj\Debug\_04.SplitByWordCasing.exe
+C:\VisualStudio\Projects\Lists-Lab\04. SplitByWordCasing\obj\Debug\_04.SplitByWordCasing.pdb

@@ -1,0 +1,6 @@
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\bin\Debug\_05.SortNumbers.exe.config
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\bin\Debug\_05.SortNumbers.exe
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\bin\Debug\_05.SortNumbers.pdb
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\obj\Debug\05. SortNumbers.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\obj\Debug\_05.SortNumbers.exe
+C:\VisualStudio\Projects\Lists-Lab\05. SortNumbers\obj\Debug\_05.SortNumbers.pdb

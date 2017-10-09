@@ -1,0 +1,6 @@
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\bin\Debug\_06.SquareNumbers.exe.config
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\bin\Debug\_06.SquareNumbers.exe
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\bin\Debug\_06.SquareNumbers.pdb
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\obj\Debug\06. SquareNumbers.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\obj\Debug\_06.SquareNumbers.exe
+C:\VisualStudio\Projects\Lists-Lab\06. SquareNumbers\obj\Debug\_06.SquareNumbers.pdb
