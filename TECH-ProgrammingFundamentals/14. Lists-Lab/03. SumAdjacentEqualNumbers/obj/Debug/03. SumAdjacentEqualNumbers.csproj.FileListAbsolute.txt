@@ -1,6 +1,0 @@
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\bin\Debug\_03.SumAdjacentEqualNumbers.exe.config
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\bin\Debug\_03.SumAdjacentEqualNumbers.exe
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\bin\Debug\_03.SumAdjacentEqualNumbers.pdb
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\obj\Debug\03. SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\obj\Debug\_03.SumAdjacentEqualNumbers.exe
-C:\VisualStudio\Projects\Lists-Lab\03. SumAdjacentEqualNumbers\obj\Debug\_03.SumAdjacentEqualNumbers.pdb

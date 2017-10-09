@@ -1,6 +1,0 @@
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\bin\Debug\_02.AppendLists.exe.config
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\bin\Debug\_02.AppendLists.exe
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\bin\Debug\_02.AppendLists.pdb
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\obj\Debug\02. AppendLists.csproj.CoreCompileInputs.cache
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\obj\Debug\_02.AppendLists.exe
-C:\VisualStudio\Projects\Lists-Lab\02. AppendLists\obj\Debug\_02.AppendLists.pdb

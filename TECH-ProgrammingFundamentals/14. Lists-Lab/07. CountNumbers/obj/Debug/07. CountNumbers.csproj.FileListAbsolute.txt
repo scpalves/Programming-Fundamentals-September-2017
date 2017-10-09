@@ -1,6 +1,0 @@
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\bin\Debug\_07.CountNumbers.exe.config
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\bin\Debug\_07.CountNumbers.exe
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\bin\Debug\_07.CountNumbers.pdb
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\obj\Debug\07. CountNumbers.csproj.CoreCompileInputs.cache
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\obj\Debug\_07.CountNumbers.exe
-C:\VisualStudio\Projects\Lists-Lab\07. CountNumbers\obj\Debug\_07.CountNumbers.pdb
