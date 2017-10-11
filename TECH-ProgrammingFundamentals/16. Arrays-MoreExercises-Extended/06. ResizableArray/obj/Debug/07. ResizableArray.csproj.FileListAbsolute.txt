@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\bin\Debug\_07.ResizableArray.exe.config
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\bin\Debug\_07.ResizableArray.exe
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\bin\Debug\_07.ResizableArray.pdb
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\obj\Debug\07. ResizableArray.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\obj\Debug\_07.ResizableArray.exe
+C:\Users\Andon\source\repos\Arrays-MoreExercises-Extended\07. ResizableArray\obj\Debug\_07.ResizableArray.pdb
