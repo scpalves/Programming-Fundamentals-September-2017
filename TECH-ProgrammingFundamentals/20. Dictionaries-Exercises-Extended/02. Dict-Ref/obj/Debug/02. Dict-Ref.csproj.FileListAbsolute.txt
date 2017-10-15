@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe.config
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\bin\Debug\_02.Dict_Ref.pdb
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\obj\Debug\02. Dict-Ref.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\obj\Debug\_02.Dict_Ref.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\02. Dict-Ref\obj\Debug\_02.Dict_Ref.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\bin\Debug\_05.UserLogins.exe.config
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\bin\Debug\_05.UserLogins.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\bin\Debug\_05.UserLogins.pdb
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\obj\Debug\05. UserLogins.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\obj\Debug\05. UserLogins.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\obj\Debug\_05.UserLogins.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\05. UserLogins\obj\Debug\_05.UserLogins.pdb

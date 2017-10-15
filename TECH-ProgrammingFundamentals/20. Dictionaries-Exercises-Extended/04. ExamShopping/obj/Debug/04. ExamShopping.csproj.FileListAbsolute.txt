@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\bin\Debug\_04.ExamShopping.exe.config
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\bin\Debug\_04.ExamShopping.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\bin\Debug\_04.ExamShopping.pdb
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\obj\Debug\04. ExamShopping.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\obj\Debug\04. ExamShopping.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\obj\Debug\_04.ExamShopping.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\04. ExamShopping\obj\Debug\_04.ExamShopping.pdb

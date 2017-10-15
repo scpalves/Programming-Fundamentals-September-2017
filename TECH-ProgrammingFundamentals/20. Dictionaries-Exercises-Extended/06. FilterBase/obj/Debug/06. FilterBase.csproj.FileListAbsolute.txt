@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\bin\Debug\_06.FilterBase.exe.config
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\bin\Debug\_06.FilterBase.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\bin\Debug\_06.FilterBase.pdb
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\obj\Debug\06. FilterBase.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\obj\Debug\06. FilterBase.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\obj\Debug\_06.FilterBase.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\06. FilterBase\obj\Debug\_06.FilterBase.pdb

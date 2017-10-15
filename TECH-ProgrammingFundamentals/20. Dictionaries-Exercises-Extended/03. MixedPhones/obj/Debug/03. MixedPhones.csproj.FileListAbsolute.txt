@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\bin\Debug\_03.MixedPhones.exe.config
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\bin\Debug\_03.MixedPhones.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\bin\Debug\_03.MixedPhones.pdb
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\obj\Debug\03. MixedPhones.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\obj\Debug\03. MixedPhones.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\obj\Debug\_03.MixedPhones.exe
+C:\Users\Andon\source\repos\Dictionaries-Exercises-Extended\03. MixedPhones\obj\Debug\_03.MixedPhones.pdb
