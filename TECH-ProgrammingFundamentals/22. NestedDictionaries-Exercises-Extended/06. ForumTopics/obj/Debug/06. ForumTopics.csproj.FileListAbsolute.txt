@@ -1,0 +1,7 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\bin\Debug\_06.ForumTopics.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\bin\Debug\_06.ForumTopics.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\bin\Debug\_06.ForumTopics.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\obj\Debug\06. ForumTopics.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\obj\Debug\_06.ForumTopics.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\obj\Debug\_06.ForumTopics.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\06. ForumTopics\obj\Debug\06. ForumTopics.csprojResolveAssemblyReference.cache

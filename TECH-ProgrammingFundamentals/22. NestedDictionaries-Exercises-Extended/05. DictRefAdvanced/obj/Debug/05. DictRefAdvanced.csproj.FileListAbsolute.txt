@@ -1,0 +1,6 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\bin\Debug\_05.DictRefAdvanced.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\bin\Debug\_05.DictRefAdvanced.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\bin\Debug\_05.DictRefAdvanced.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\obj\Debug\05. DictRefAdvanced.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\obj\Debug\_05.DictRefAdvanced.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\05. DictRefAdvanced\obj\Debug\_05.DictRefAdvanced.pdb

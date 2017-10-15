@@ -1,0 +1,6 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\bin\Debug\_03.TravelCompany.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\bin\Debug\_03.TravelCompany.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\bin\Debug\_03.TravelCompany.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\obj\Debug\03. TravelCompany.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\obj\Debug\_03.TravelCompany.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\03. TravelCompany\obj\Debug\_03.TravelCompany.pdb

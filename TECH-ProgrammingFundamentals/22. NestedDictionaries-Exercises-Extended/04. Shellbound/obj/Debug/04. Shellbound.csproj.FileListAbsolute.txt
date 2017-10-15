@@ -1,0 +1,7 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\bin\Debug\_04.Shellbound.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\bin\Debug\_04.Shellbound.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\bin\Debug\_04.Shellbound.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\obj\Debug\04. Shellbound.csprojResolveAssemblyReference.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\obj\Debug\04. Shellbound.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\obj\Debug\_04.Shellbound.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\04. Shellbound\obj\Debug\_04.Shellbound.pdb

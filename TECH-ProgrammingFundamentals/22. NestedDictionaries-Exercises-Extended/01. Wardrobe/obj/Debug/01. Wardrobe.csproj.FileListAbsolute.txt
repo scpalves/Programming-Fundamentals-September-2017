@@ -1,0 +1,7 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\bin\Debug\NestedDictionaries-Exercises-Extended.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\bin\Debug\NestedDictionaries-Exercises-Extended.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\bin\Debug\NestedDictionaries-Exercises-Extended.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\obj\Debug\01. Wardrobe.csprojResolveAssemblyReference.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\obj\Debug\01. Wardrobe.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\obj\Debug\NestedDictionaries-Exercises-Extended.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\NestedDictionaries-Exercises-Extended\obj\Debug\NestedDictionaries-Exercises-Extended.pdb

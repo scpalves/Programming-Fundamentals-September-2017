@@ -1,0 +1,7 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\bin\Debug\_02.KeyKeyValueValue.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\bin\Debug\_02.KeyKeyValueValue.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\bin\Debug\_02.KeyKeyValueValue.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\obj\Debug\02. KeyKeyValueValue.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\obj\Debug\_02.KeyKeyValueValue.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\obj\Debug\_02.KeyKeyValueValue.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\02. KeyKeyValueValue\obj\Debug\02. KeyKeyValueValue.csprojResolveAssemblyReference.cache

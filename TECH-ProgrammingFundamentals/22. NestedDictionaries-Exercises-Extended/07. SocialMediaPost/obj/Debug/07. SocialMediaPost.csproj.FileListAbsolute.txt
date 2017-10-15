@@ -1,0 +1,6 @@
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\bin\Debug\_07.SocialMediaPost.exe.config
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\bin\Debug\_07.SocialMediaPost.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\bin\Debug\_07.SocialMediaPost.pdb
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\obj\Debug\07. SocialMediaPost.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\obj\Debug\_07.SocialMediaPost.exe
+c:\users\andon\source\repos\NestedDictionaries-Exercises-Extended\07. SocialMediaPost\obj\Debug\_07.SocialMediaPost.pdb
