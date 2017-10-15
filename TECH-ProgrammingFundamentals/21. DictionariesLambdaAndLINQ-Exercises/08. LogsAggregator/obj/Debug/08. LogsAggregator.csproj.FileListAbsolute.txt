@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\bin\Debug\_08.LogsAggregator.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\bin\Debug\_08.LogsAggregator.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\bin\Debug\_08.LogsAggregator.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\obj\Debug\08. LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\obj\Debug\08. LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\obj\Debug\_08.LogsAggregator.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\08. LogsAggregator\obj\Debug\_08.LogsAggregator.pdb

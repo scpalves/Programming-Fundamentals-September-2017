@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\bin\Debug\_05.HandsOfCards.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\bin\Debug\_05.HandsOfCards.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\bin\Debug\_05.HandsOfCards.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\obj\Debug\05. HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\obj\Debug\_05.HandsOfCards.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\obj\Debug\_05.HandsOfCards.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\05. HandsOfCards\obj\Debug\05. HandsOfCards.csprojResolveAssemblyReference.cache

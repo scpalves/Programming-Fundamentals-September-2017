@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\bin\Debug\_10.СръбскоUnleashed.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\bin\Debug\_10.СръбскоUnleashed.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\bin\Debug\_10.СръбскоUnleashed.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\obj\Debug\10. СръбскоUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\obj\Debug\10. СръбскоUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\obj\Debug\_10.СръбскоUnleashed.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\10. СръбскоUnleashed\obj\Debug\_10.СръбскоUnleashed.pdb

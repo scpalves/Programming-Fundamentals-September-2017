@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\bin\Debug\_12.DragonArmy.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\bin\Debug\_12.DragonArmy.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\bin\Debug\_12.DragonArmy.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\obj\Debug\12. DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\obj\Debug\12. DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\obj\Debug\_12.DragonArmy.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\12. DragonArmy\obj\Debug\_12.DragonArmy.pdb

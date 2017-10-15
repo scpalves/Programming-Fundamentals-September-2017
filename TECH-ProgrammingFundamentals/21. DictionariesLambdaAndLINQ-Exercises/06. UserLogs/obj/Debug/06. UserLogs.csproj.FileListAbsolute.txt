@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\bin\Debug\_06.UserLogs.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\bin\Debug\_06.UserLogs.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\bin\Debug\_06.UserLogs.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\obj\Debug\06. UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\obj\Debug\06. UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\obj\Debug\_06.UserLogs.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\06. UserLogs\obj\Debug\_06.UserLogs.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\bin\Debug\_04.FixEmails.exe.config
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\bin\Debug\_04.FixEmails.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\bin\Debug\_04.FixEmails.pdb
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\obj\Debug\04. FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\obj\Debug\04. FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\obj\Debug\_04.FixEmails.exe
+C:\Users\Andon\source\repos\DictionariesLambdaAndLINQ-Exercises\04. FixEmails\obj\Debug\_04.FixEmails.pdb
