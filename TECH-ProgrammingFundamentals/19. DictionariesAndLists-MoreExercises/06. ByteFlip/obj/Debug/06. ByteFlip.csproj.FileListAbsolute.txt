@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\bin\Debug\_06.ByteFlip.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\bin\Debug\_06.ByteFlip.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\bin\Debug\_06.ByteFlip.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\obj\Debug\06. ByteFlip.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\obj\Debug\06. ByteFlip.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\obj\Debug\_06.ByteFlip.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\06. ByteFlip\obj\Debug\_06.ByteFlip.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\bin\Debug\_07.TakeSkipRope.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\bin\Debug\_07.TakeSkipRope.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\bin\Debug\_07.TakeSkipRope.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\obj\Debug\07. TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\obj\Debug\07. TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\obj\Debug\_07.TakeSkipRope.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\07. TakeSkipRope\obj\Debug\_07.TakeSkipRope.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\bin\Debug\DictionariesAndLists-MoreExercises.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\bin\Debug\DictionariesAndLists-MoreExercises.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\bin\Debug\DictionariesAndLists-MoreExercises.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\obj\Debug\DictionariesAndLists-MoreExercises.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\obj\Debug\DictionariesAndLists-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\obj\Debug\DictionariesAndLists-MoreExercises.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\DictionariesAndLists-MoreExercises\obj\Debug\DictionariesAndLists-MoreExercises.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\bin\Debug\_02.OddFilter.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\bin\Debug\_02.OddFilter.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\bin\Debug\_02.OddFilter.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\obj\Debug\02. OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\obj\Debug\_02.OddFilter.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\02. OddFilter\obj\Debug\_02.OddFilter.pdb

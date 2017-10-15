@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\bin\Debug\_05.ParkingValidation.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\bin\Debug\_05.ParkingValidation.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\bin\Debug\_05.ParkingValidation.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\obj\Debug\05. ParkingValidation.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\obj\Debug\05. ParkingValidation.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\obj\Debug\_05.ParkingValidation.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\05. ParkingValidation\obj\Debug\_05.ParkingValidation.pdb

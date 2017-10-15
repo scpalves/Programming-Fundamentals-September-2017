@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\bin\Debug\_04.SupermarketDatabase.exe.config
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\bin\Debug\_04.SupermarketDatabase.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\bin\Debug\_04.SupermarketDatabase.pdb
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\obj\Debug\04. SupermarketDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\obj\Debug\04. SupermarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\obj\Debug\_04.SupermarketDatabase.exe
+C:\Users\Andon\source\repos\DictionariesAndLists-MoreExercises\04. SupermarketDatabase\obj\Debug\_04.SupermarketDatabase.pdb
