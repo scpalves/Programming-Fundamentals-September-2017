@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\bin\Debug\_03.RegexMon.exe.config
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\bin\Debug\_03.RegexMon.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\bin\Debug\_03.RegexMon.pdb
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\obj\Debug\03. RegexMon.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\obj\Debug\_03.RegexMon.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\03. RegexMon\obj\Debug\_03.RegexMon.pdb

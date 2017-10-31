@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\bin\Debug\_04.PokemonEvolution.exe.config
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\bin\Debug\_04.PokemonEvolution.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\bin\Debug\_04.PokemonEvolution.pdb
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\obj\Debug\04. PokemonEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\obj\Debug\04. PokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\obj\Debug\_04.PokemonEvolution.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\04. PokemonEvolution\obj\Debug\_04.PokemonEvolution.pdb

@@ -1,0 +1,7 @@
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\bin\Debug\PF-Exam 09.07.2017.exe.config
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\bin\Debug\PF-Exam 09.07.2017.exe
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\bin\Debug\PF-Exam 09.07.2017.pdb
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\obj\Debug\PF-Exam 09.07.2017.csprojResolveAssemblyReference.cache
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\obj\Debug\PF-Exam 09.07.2017.csproj.CoreCompileInputs.cache
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\obj\Debug\PF-Exam 09.07.2017.exe
+c:\users\andon\source\repos\PF-Exam 09.07.2017\PF-Exam 09.07.2017\obj\Debug\PF-Exam 09.07.2017.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\bin\Debug\_02.PokemonDontGo.exe.config
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\bin\Debug\_02.PokemonDontGo.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\bin\Debug\_02.PokemonDontGo.pdb
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\obj\Debug\02. PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\obj\Debug\_02.PokemonDontGo.exe
+C:\Users\Andon\source\repos\PF-Exam 09.07.2017\02. PokemonDontGo\obj\Debug\_02.PokemonDontGo.pdb
