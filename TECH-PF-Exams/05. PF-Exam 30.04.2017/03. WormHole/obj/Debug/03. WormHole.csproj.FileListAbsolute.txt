@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\bin\Debug\_03.WormHole.exe.config
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\bin\Debug\_03.WormHole.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\bin\Debug\_03.WormHole.pdb
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\obj\Debug\03. WormHole.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\obj\Debug\03. WormHole.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\obj\Debug\_03.WormHole.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\03. WormHole\obj\Debug\_03.WormHole.pdb

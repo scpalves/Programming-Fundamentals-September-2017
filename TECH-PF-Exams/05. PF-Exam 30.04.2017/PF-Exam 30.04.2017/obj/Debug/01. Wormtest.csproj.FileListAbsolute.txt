@@ -1,0 +1,7 @@
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\bin\Debug\PF-Exam 30.04.2017.exe.config
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\bin\Debug\PF-Exam 30.04.2017.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\bin\Debug\PF-Exam 30.04.2017.pdb
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\obj\Debug\01. Wormtest.csprojResolveAssemblyReference.cache
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\obj\Debug\01. Wormtest.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\obj\Debug\PF-Exam 30.04.2017.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\PF-Exam 30.04.2017\obj\Debug\PF-Exam 30.04.2017.pdb

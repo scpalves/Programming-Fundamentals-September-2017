@@ -1,0 +1,6 @@
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\bin\Debug\_02.WormIpsum.exe.config
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\bin\Debug\_02.WormIpsum.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\bin\Debug\_02.WormIpsum.pdb
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\obj\Debug\02. WormIpsum.csproj.CoreCompileInputs.cache
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\obj\Debug\_02.WormIpsum.exe
+C:\Users\Andon\source\repos\PF-Exam 30.04.2017\02. WormIpsum\obj\Debug\_02.WormIpsum.pdb
